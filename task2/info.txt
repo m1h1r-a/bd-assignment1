@@ -1,0 +1,1 @@
+cat example.txt | ./mapper1.py | sort -k 1,1 | ./reducer1.py | ./mapper2.py | sort -k 1,1 | ./reducer2.py | ./mapper3.py | sort -k 1,1 | ./reducer3.py 

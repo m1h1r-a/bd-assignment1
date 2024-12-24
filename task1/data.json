@@ -1,0 +1,3 @@
+[
+{"city": "Mumbai", "store_id": "ST270102", "categories": ["Groceries", "Furniture", "Books and Magazines", "Pharmacy and Health", "Apparel", "Home Decor", "Beauty", "Toys and Stationery", "Electronics", "Kitchen"], "sales_data": {"Apparel":{},"Magazines": {"revenue": 4146790, "cogs": 2968134}}}
+]
